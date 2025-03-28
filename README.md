@@ -10,7 +10,7 @@ thank you for supporting.
 ## Installation
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/littlelemon.git
+    git clone https://github.com/MahmoudShabanAhmed/littlelemon_Capstone
 
 2. Navigate to the project directory:
 
